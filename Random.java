@@ -19,6 +19,6 @@ public class Random
 		int index=(int)(Math.random()*doc.length);
 		c=doc[index];
 		}
-		System.out.printf("%s,%s,%s",a,b,c);
+		System.out.printf("%s%s%s",a，b,c);
 	}
 }
